@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/claudioaltamura/spring-boot-data-mongodb.svg?branch=master)](https://travis-ci.com/claudioaltamura/spring-boot-data-mongodb)
+[![Build Status](https://travis-ci.com/claudioaltamura/spring-boot-data-mongodb.svg?branch=main)](https://travis-ci.com/github/claudioaltamura/spring-boot-data-mongodb)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
