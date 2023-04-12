@@ -8,7 +8,7 @@ class ProductMaterialApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assert(true)
+		assert(true);
 	}
 
 }
