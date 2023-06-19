@@ -28,5 +28,5 @@ find all
 
 get one
     
-     curl http://localhost:8080/product_materials/materialNumber/ABN124
+     curl http://localhost:8080/product_materials/materialNumber/ABN123
 
